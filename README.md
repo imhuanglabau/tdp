@@ -68,3 +68,57 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Setting Up the Project
+
+To set up the project, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/imhuanglabau/tdp.git
+   cd tdp
+   ```
+
+2. Install the dependencies:
+   ```sh
+   npm install
+   ```
+
+3. Create a `.env` file in the root directory and add the necessary environment variables:
+   ```sh
+   REACT_APP_API_BASE_URL=https://api.smartbustw.com/
+   REACT_APP_LIFF_ID=2004573455-vYaQNa4z
+   ```
+
+## Running the Project
+
+To run the project, use the following command:
+```sh
+npm start
+```
+
+This will start the development server and open the project in your default web browser. The project will be available at [http://localhost:3000](http://localhost:3000).
+
+## Contributing to the Project
+
+To contribute to the project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix:
+   ```sh
+   git checkout -b my-feature-branch
+   ```
+
+3. Make your changes and commit them with a descriptive commit message:
+   ```sh
+   git commit -m "Add new feature"
+   ```
+
+4. Push your changes to your forked repository:
+   ```sh
+   git push origin my-feature-branch
+   ```
+
+5. Create a pull request from your branch to the main repository's `main` branch.
+
+Please ensure that your code follows the project's coding standards and includes appropriate tests.
