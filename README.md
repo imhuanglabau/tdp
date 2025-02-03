@@ -1,124 +1,124 @@
-# Getting Started with Create React App
+# 使用 Create React App 開始
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+此專案是使用 [Create React App](https://github.com/facebook/create-react-app) 建立的。
 
-## Available Scripts
+## 可用的腳本
 
-In the project directory, you can run:
+在專案目錄中，您可以執行以下命令：
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+在開發模式下運行應用程式。\
+打開 [http://localhost:3000](http://localhost:3000) 在瀏覽器中查看。
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+當您進行更改時，頁面將重新加載。\
+您也可以在控制台中看到任何 lint 錯誤。
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+在互動式監視模式下啟動測試運行器。\
+有關更多信息，請參見 [運行測試](https://facebook.github.io/create-react-app/docs/running-tests) 部分。
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+將應用程式構建為生產環境的 `build` 資料夾。\
+它正確地將 React 捆綁在生產模式中，並優化構建以獲得最佳性能。
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+構建是最小化的，文件名包括哈希值。\
+您的應用程式已準備好部署！
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+有關更多信息，請參見 [部署](https://facebook.github.io/create-react-app/docs/deployment) 部分。
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**注意：這是一個單向操作。一旦您 `eject`，就無法回頭！**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+如果您對構建工具和配置選擇不滿意，您可以隨時 `eject`。此命令將從您的專案中移除單一構建依賴項。
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+相反，它會將所有配置文件和過渡依賴項（webpack、Babel、ESLint 等）直接複製到您的專案中，這樣您就可以完全控制它們。除了 `eject` 之外的所有命令仍然可以正常工作，但它們將指向複製的腳本，以便您可以對其進行調整。在這一點上，您就獨自一人了。
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+您不必使用 `eject`。精心策劃的功能集適合小型和中型部署，您不應該感到有義務在準備好自定義時使用此功能。然而，我們理解，如果您無法在準備好時進行自定義，這個工具將毫無用處。
 
-## Learn More
+## 學習更多
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+您可以在 [Create React App 文檔](https://facebook.github.io/create-react-app/docs/getting-started) 中了解更多信息。
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+要學習 React，請查看 [React 文檔](https://reactjs.org/)。
 
-### Code Splitting
+### 代碼拆分
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+此部分已移至此處：[https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+### 分析捆綁包大小
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+此部分已移至此處：[https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### 製作漸進式 Web 應用程式
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+此部分已移至此處：[https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### 高級配置
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+此部分已移至此處：[https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+### 部署
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+此部分已移至此處：[https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+### `npm run build` 無法縮小
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+此部分已移至此處：[https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Setting Up the Project
+## 設置專案
 
-To set up the project, follow these steps:
+要設置專案，請按照以下步驟操作：
 
-1. Clone the repository:
+1. 克隆存儲庫：
    ```sh
    git clone https://github.com/imhuanglabau/tdp.git
    cd tdp
    ```
 
-2. Install the dependencies:
+2. 安裝依賴項：
    ```sh
    npm install
    ```
 
-3. Create a `.env` file in the root directory and add the necessary environment variables:
+3. 在根目錄中創建 `.env` 文件並添加必要的環境變量：
    ```sh
    REACT_APP_API_BASE_URL=https://api.smartbustw.com/
    REACT_APP_LIFF_ID=2004573455-vYaQNa4z
    ```
 
-## Running the Project
+## 運行專案
 
-To run the project, use the following command:
+要運行專案，請使用以下命令：
 ```sh
 npm start
 ```
 
-This will start the development server and open the project in your default web browser. The project will be available at [http://localhost:3000](http://localhost:3000).
+這將啟動開發伺服器並在您的默認網頁瀏覽器中打開專案。該專案將在 [http://localhost:3000](http://localhost:3000) 上可用。
 
-## Contributing to the Project
+## 貢獻專案
 
-To contribute to the project, follow these steps:
+要貢獻專案，請按照以下步驟操作：
 
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix:
+1. Fork 存儲庫。
+2. 為您的功能或錯誤修復創建一個新分支：
    ```sh
    git checkout -b my-feature-branch
    ```
 
-3. Make your changes and commit them with a descriptive commit message:
+3. 進行更改並使用描述性提交消息提交它們：
    ```sh
    git commit -m "Add new feature"
    ```
 
-4. Push your changes to your forked repository:
+4. 將您的更改推送到您 fork 的存儲庫：
    ```sh
    git push origin my-feature-branch
    ```
 
-5. Create a pull request from your branch to the main repository's `main` branch.
+5. 從您的分支創建一個 pull request 到主存儲庫的 `main` 分支。
 
-Please ensure that your code follows the project's coding standards and includes appropriate tests.
+請確保您的代碼遵循專案的代碼標準並包含適當的測試。
